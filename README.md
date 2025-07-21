@@ -1,6 +1,6 @@
 # Creative-Coding-Pt2
 
-Unlike "Claudius-First," this isn't just visual art, this is now afunctional art
+Unlike "Claudius-First," this isn't just a creative coding visual art, this is now a functional art😎
 
 SEE VIDEO BELOW
 
